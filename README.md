@@ -30,9 +30,7 @@ The projects demonstrate:
 ### House Price Prediction and Model Comparison (Team Project)
 Built predictive models using Multiple Linear Regression and Random Forest Regression to estimate house prices based on property characteristics. Evaluated model performance using RMSE and compared model accuracy.
 
-This project was completed as a group assessment.
-
-My primary contribution focused on:
+This project was completed as a group assessment. My primary contribution focused on:
 - Exploratory Data Analysis (EDA)
 - Correlation Analysis
 - Data Visualisation
