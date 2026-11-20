@@ -27,7 +27,7 @@ The projects demonstrate:
 - Model Evaluation
 
 ## Featured Projects
-### House Price Prediction and Model Comparison
+### House Price Prediction and Model Comparison (Team Project)
 Built predictive models using Multiple Linear Regression and Random Forest Regression to estimate house prices based on property characteristics. Evaluated model performance using RMSE and compared model accuracy.
 
 <img width="1105" height="322" alt="Mission 4 Model Comparison RMSE" src="https://github.com/user-attachments/assets/d832dbc4-b697-411b-a52f-37be777ebc31" />
