@@ -45,6 +45,12 @@ This project was completed as a group assessment. My primary contribution focuse
 ### Retail Sales Exploratory Data Analysis
 Performed exploratory data analysis on retail sales data by merging multiple datasets, creating business metrics, exploring product and country trends, and visualising sales behaviour using Seaborn and Matplotlib.
 
+<img width="932" height="467" alt="Mission 3 Dataset Merge" src="https://github.com/user-attachments/assets/73971d8b-bc04-4ad4-a4fa-b3ea386cab7f" />
+<img width="655" height="382" alt="Mission 3 Product Category Analysis" src="https://github.com/user-attachments/assets/334f5567-76dd-4221-bf74-140daef12b65" />
+<img width="506" height="622" alt="Mission 3 Country Analysis" src="https://github.com/user-attachments/assets/da4b25a8-4a24-46f6-b963-8bbd13957d6b" />
+<img width="750" height="472" alt="Mission 3 Scatterplot" src="https://github.com/user-attachments/assets/00983fba-1b21-4560-bd3d-2d1dc176913a" />
+<img width="552" height="450" alt="Mission 3 Correlation Heatmap" src="https://github.com/user-attachments/assets/a8c6c0f2-00e8-4215-8b38-3a89ce24c6a4" />
+
 - Tools Used
 - Python
 - Pandas
