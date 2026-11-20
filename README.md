@@ -27,14 +27,14 @@ The projects demonstrate:
 - Model Evaluation
 
 ## Featured Projects
-House Price Prediction and Model Comparison
+### House Price Prediction and Model Comparison
 Built predictive models using Multiple Linear Regression and Random Forest Regression to estimate house prices based on property characteristics. Evaluated model performance using RMSE and compared model accuracy.
 
 <img width="1105" height="322" alt="Mission 4 Model Comparison RMSE" src="https://github.com/user-attachments/assets/d832dbc4-b697-411b-a52f-37be777ebc31" />
 <img width="555" height="530" alt="Mission 4 Actual vs Predicted Prices" src="https://github.com/user-attachments/assets/638b8b1f-190d-4be8-8031-f088e335594e" />
 <img width="737" height="632" alt="Misson 4 Correlation Heatmap" src="https://github.com/user-attachments/assets/d02f7468-b4a1-4587-a5f5-fc3dd9c56e8d" />
 
-## Retail Sales Exploratory Data Analysis
+### Retail Sales Exploratory Data Analysis
 Performed exploratory data analysis on retail sales data by merging multiple datasets, creating business metrics, exploring product and country trends, and visualising sales behaviour using Seaborn and Matplotlib.
 
 - Tools Used
